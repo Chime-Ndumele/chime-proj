@@ -1,0 +1,210 @@
+
+body{
+    background-color: white
+}
+.container1{
+    background-color: white;
+    width: 1200px;
+    height: 650px;
+    margin: auto;
+    transform: translate(0, 5%)2
+}
+        .container5{
+            align-items: center;
+            display: flex;
+            border-top: 1px solid #eaecf0;
+        }
+.container2,h5{
+    text-align: center;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 1px;
+}
+.icon-1{
+    width: 60px;
+    height: 60px;
+    border-radius: 275px;
+align-items: center;
+}
+
+.Twitter{
+    height: 50px;
+    background-color: #eaecf0;
+    margin: 20px;
+    border: 1px solid #eaecf0;
+    border-radius: 8px;
+    text-align: center;
+}
+.zuteam{
+    height: 50px;
+    background-color: #eaecf0;
+    margin: 20px;
+    border: 1px solid #eaecf0;
+    border-radius: 8px;
+    text-align: center;
+}
+.zubook{
+    height: 50px;
+    background-color: #eaecf0;
+    margin: 20px;
+    border: 1px solid #eaecf0;
+    border-radius: 8px;
+    text-align: center;
+}
+.pybook{
+    height: 50px;
+    background-color: #eaecf0;
+    margin: 20px;
+    border: 1px solid #eaecf0;
+    border-radius: 8px;
+    text-align: center;
+}
+.back{
+    height: 50px;
+    background-color: #eaecf0;
+    margin: 20px;
+    border: 1px solid #eaecf0;
+    border-radius: 8px;
+    text-align: center;
+}
+.debook{
+    height: 50px;
+    background-color: #eaecf0;
+    margin: 20px;
+    border: 1px solid #eaecf0;
+    border-radius: 8px;
+    text-align: center;
+}
+.slack-icon{
+    width: 30px;
+    height: 30px;
+    margin-left: 300px;
+    margin-top: 15px;
+}
+.git-icon{
+    width: 30px;
+    height: 30px;
+    align-items: center;
+}
+.zuri-icon{
+    width: 30px;
+    height: 30px;
+}
+.ingress-icon{
+    width: 120px;
+    height: 30px;
+    margin-left: auto;
+}
+.text-1{
+    color: #667085;
+    margin-left: 20%;
+}
+#btn-1{
+    padding: 15px;
+    border: 0px;
+    background-color: #eaecf0
+}
+#btn-1:hover{
+    cursor: pointer;
+}
+@media only screen and (max-width: 600px) {
+
+.container1{
+        width: 370px;
+        height: 700px;
+    }
+    .slack-icon{
+        width: 30px;
+        height: 30px;
+        margin-left: 160px;
+        margin-top: 20px;
+    }
+    .git-icon{
+        width: 30px;
+        height: 30px;
+    }
+    .text-1{
+    display: none;
+}
+  }
+  @media only screen and (min-width: 768px) {
+
+    .container1{
+            width: 750px;
+            height: 700px;
+        }
+        .git-icon{
+            width: 30px;
+            height: 30px;
+        }
+        .zuri-icon{
+            width: 30px;
+            height: 30px;
+        }
+        .ingress-icon{
+            width: 120px;
+            height: 30px;
+          
+        }
+
+        .Twitter{
+            height: 60px;
+            background-color: #eaecf0;
+            margin: 20px;
+            border: 1px solid #eaecf0;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .zuteam{
+            height: 60px;
+            background-color: #eaecf0;
+            margin: 20px;
+            border: 1px solid #eaecf0;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .zubook{
+            height: 60px;
+            background-color: #eaecf0;
+            margin: 20px;
+            border: 1px solid #eaecf0;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .pybook{
+            height: 60px;
+            background-color: #eaecf0;
+            margin: 20px;
+            border: 1px solid #eaecf0;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .back{
+            height: 60px;
+            background-color: #eaecf0;
+            margin: 20px;
+            border: 1px solid #eaecf0;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .debook{
+            height: 60px;
+            background-color: #eaecf0;
+            margin: 20px;
+            border: 1px solid #eaecf0;
+            border-radius: 8px;
+            text-align: center;
+        }
+        #btn-1{
+            padding: 20px;
+            border: 0px;
+            background-color: #eaecf0
+        }
+        .slack-icon{
+            width: 30px;
+            height: 30px;
+            margin-left: 350px;
+            margin-top: 15px;
+        }
+      }
+      
