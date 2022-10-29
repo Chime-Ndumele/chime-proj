@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chime-proj/static/css/main.d1c4afee.css",
+    "main.js": "/chime-proj/static/js/main.0658f524.js",
+    "static/media/icon.jpg": "/chime-proj/static/media/icon.3c5a74ed4c4c97e8f03b.jpg",
+    "static/media/github.png": "/chime-proj/static/media/github.e0e5d8201d9149f1d511.png",
+    "index.html": "/chime-proj/index.html",
+    "main.d1c4afee.css.map": "/chime-proj/static/css/main.d1c4afee.css.map",
+    "main.0658f524.js.map": "/chime-proj/static/js/main.0658f524.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c4afee.css",
+    "static/js/main.0658f524.js"
+  ]
+}
